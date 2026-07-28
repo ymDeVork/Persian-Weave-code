@@ -30,8 +30,8 @@ This repository contains the custom code used in the Persian Weave website.
 ### Products
 ![Products](images/products.jpg)
 
-### Showcase
-![Showcase](images/showcase.jpg)
+### Show
+![Show](images/showcase.jpg)
 
 ---
 
