@@ -1,0 +1,32 @@
+.elementor-item-active,
+.current-menu-item,
+.current_page_item{
+    color:rgba(255,255,255,.8) !important;
+    background:none !important;
+    text-decoration:none !important;
+}
+
+.elementor-item-active::after,
+.current-menu-item::after,
+.current_page_item::after{
+    display:none !important;
+}
+
+.menu-link::after{
+    display:none !important;
+}
+
+.menu-link{
+    color:rgba(255,255,255,.8);
+    text-decoration:none !important;
+    display:inline-block;
+    transition:.4s ease;
+}
+
+
+.menu-link:hover{
+    color:white;
+    letter-spacing:1.5px;
+    transform:scale(1.05);
+    text-shadow:0 0 12px rgba(255,255,255,.5);
+}

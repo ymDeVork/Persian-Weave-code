@@ -1,0 +1,22 @@
+.footer::before{
+    content:"";
+    position:absolute;
+
+    width:800px;
+    height:400px;
+
+    left:50%;
+    top:43%;
+    transform:translate(-50%,-50%);
+
+    border-radius:50%;
+
+    background:radial-gradient(
+        ellipse,
+        rgba(221,209,197,.20) 0%,
+        rgba(221,209,197,.12) 34%,
+        rgba(221,209,197,.1) 44%,
+        transparent 70%
+    );
+    pointer-events:none;
+}

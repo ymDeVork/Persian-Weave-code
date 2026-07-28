@@ -1,0 +1,23 @@
+#contact-button .elementor-heading-title{
+    display:inline-flex;
+    align-items:center;
+    justify-content:center;
+
+    padding:6px 35px;
+    background-size:cover;
+    background-position:center;
+    background: radial-gradient(circle at center,
+#141414 0%,
+#090909 45%,
+#000000 100%);
+
+    color:white;
+    border-radius:10px;
+
+    transition:0.5s ease;
+}
+
+#contact-button:hover .elementor-heading-title{
+    transform:scale(1.08);
+    letter-spacing:1px;
+}
