@@ -25,13 +25,13 @@ This repository contains the custom code used in the Persian Weave website.
 ## Screenshots
 
 ### Home
-![Home](images/home.jpg)
+![Home](screenshots/home.jpg)
 
 ### Products
-![Products](images/products.jpg)
+![Products](screenshots/products.jpg)
 
 ### Showcase
-![Showcase](images/showcase.jpg)
+![Showcase](screenshots/showcase.jpg)
 
 ---
 
