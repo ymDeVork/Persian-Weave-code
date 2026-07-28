@@ -31,7 +31,7 @@ This repository contains the custom code used in the Persian Weave website.
 ![Products](images/products.jpg)
 
 ### Show
-![Show](images/showcase.jpg)
+![Show](images/show.jpg)
 
 ---
 
