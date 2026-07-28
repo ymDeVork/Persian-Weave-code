@@ -22,4 +22,17 @@ This repository contains the custom code used in the Persian Weave website.
 - Footer glow effect
 - Responsive improvements
 
+## Screenshots
+
+### Home
+![Home](images/home.jpg)
+
+### Products
+![Products](images/products.jpg)
+
+### Showcase
+![Showcase](images/showcase.jpg)
+
+---
+
 This repository includes only the custom code written for the project.
